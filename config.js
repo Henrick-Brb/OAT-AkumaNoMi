@@ -1,0 +1,2 @@
+export const SUPABASE_URL = 'https://ghjrecykyldopbfehngk.supabase.co';
+export const SUPABASE_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImdoanJlY3lreWxkb3BiZmVobmdrIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODIxODg1NTQsImV4cCI6MjA5Nzc2NDU1NH0.m5eWh2pA8HRDRDGNosuYzDsaaqTet45-TOIkDot5REI';
