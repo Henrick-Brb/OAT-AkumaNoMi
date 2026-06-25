@@ -29,7 +29,7 @@
 ## 🌐 Acesse o Projeto
 
 🔗 **Aplicação Online:**  
-Link: [Catalógo AkumaNoMi]()
+Link: [Catalógo AkumaNoMi](https://oat-akumanomi.netlify.app/)
 
 ---
 
